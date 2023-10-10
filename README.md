@@ -36,11 +36,5 @@ Caso não utilize o Jupyter instale elas sem a exclamação na frente (!).
 
 **Para uma visão mais detalhada você poderá ver no arquivo acima:** *main.ipynb*
 ---
-## Passo a passo explicando como a análise de dados pode ser feita da Imersão da @Hashtag Treinamentos
 
-> Apostila Jornada Python - Aula 2.pdf
-
-[Link para o arquivo acima do PDF da Aula](https://github.com/sousadevelop/Data_Analytics_Customer_Cancellation/blob/main/Apostila%20Jornada%20Python%20-%20Aula%202.pdf)
-
----
-### Este projeto foi fruto da aula de Imersão em Python da Hashtag Treinamentos
+> Este projeto foi fruto da aula de Imersão em Python da Hashtag Treinamentos
